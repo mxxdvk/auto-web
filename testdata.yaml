@@ -1,0 +1,28 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: "dasha87"
+pswd: "354282beb8"
+
+u_name: "Дарья Зверева"
+u_email: "nastya_911@mail.ru"
+content_contact: "Добрый день! Рада знакомству! У меня есть пара вопросов"
+
+title: "Работа в Додо!"
+description: "Работа, где важен каждый"
+content: "Людям нравится работать, когда они чувствуют свою ценность. 
+В большой компании человек может теряться, чувствовать себя менее значимым.
+Мы в Додо уверены: чем больше компания, тем больше внимания должно быть к 
+тем, кто с ней работает."
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: White cat
+
+fromaddr: "nastya_911@mail.ru"
+toaddr: "nastya_911@mail.ru"
+fromaddr_passwd: "h6eLHahdH3Rqyn3hWrta"
+file: "log.txt"
+letter_body: "Отчет о тестировании"
